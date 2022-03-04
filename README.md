@@ -8,9 +8,9 @@ Para ser usada solo necesitas:
 ## IMPORTANTE!!!
 ### Linux:
 Si estas en linux, en el apartado de comandos de la calculadora debes poner un "#" donde pone 'comando = "cls"', y quitar el "#" donde pone comando = "clear"
-Tendria que quedar asi:
-            comando = "cls"
-            comando = "clear"
+_Tendria que quedar asi:
+comando = "cls"
+comando = "clear"
 ### Windows:
    Si estas en windows...
 [![Captura2.png](https://postimg.cc/4nLYZ4dC)](https://postimg.cc/CdLRWnwH)
