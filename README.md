@@ -8,7 +8,7 @@ Para ser usada solo necesitas:
 ## IMPORTANTE!!!
 ### Linux:
 Si estas en linux, en el apartado de comandos de la calculadora debes poner un "#" donde pone 'comando = "cls"', y quitar el "#" donde pone comando = "clear"
-_Tendria que quedar asi:
+_Tendria que quedar asi:_
 comando = "cls"
 comando = "clear"
 ### Windows:
