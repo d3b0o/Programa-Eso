@@ -9,8 +9,7 @@ Para ser usada solo necesitas:
 
 ## IMPORTANTE!!!
 ### Linux:
-Si estas en linux, en el apartado de comandos de la calculadora debes poner un "#" donde pone _comando = "cls"_, y quitar el "#" donde pone _comando = "clear"_
-\n Tendria que quedar asi:
+Si estas en linux, en el apartado de comandos de la calculadora debes poner un "#" donde pone _comando = "cls"_, y quitar el "#" donde pone _comando = "clear"_  Tendria que quedar asi:  
 ```
 #comando = "cls"
 comando = "clear"
