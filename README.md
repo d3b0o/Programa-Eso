@@ -16,5 +16,10 @@ Tendria que quedar asi:
 comando = "clear"
 ```
 ### Windows:
-   Si estas en windows...
+Si estas en Windows, en el apartado de comandos de la calculadora debes poner un "#" donde pone _comando = "clear"_, y quitar el "#" donde pone _comando = "cls"_
+Tendria que quedar asi:
+```
+comando = "cls"
+#comando = "clear"
+```
 [![Captura2.png](https://postimg.cc/4nLYZ4dC)](https://postimg.cc/CdLRWnwH)
