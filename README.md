@@ -5,9 +5,9 @@ Para ser usada solo necesitas:
 * Python3
 * Librerias: os, time, math (Vienen por defecto con python3)
 
-## Importante!!!
-### Linux:
-Si estas en linux.....
-### Windows:
-Si estas en windows...
+## IMPORTANTE!!!
+### * Linux:
+      Si estas en linux.....
+### * Windows:
+      Si estas en windows...
 [![Captura2.png](https://postimg.cc/4nLYZ4dC)](https://postimg.cc/CdLRWnwH)
