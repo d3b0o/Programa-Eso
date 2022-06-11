@@ -1,5 +1,5 @@
-# CALCULADORA EQUACIONES PASO A PASO
-Calculadora paso a paso de: Operaciones Basicas, Equaciones de Segundo Grado, Equaciones Biquadradas, Ruffini, etc
+# Programa Eso
+Calculadora paso a paso de: Operaciones Basicas, Equaciones de Segundo Grado, Equaciones Biquadradas, Ruffini,verbos irregulares
 
 Para ser usada solo necesitas:
 * Python3
